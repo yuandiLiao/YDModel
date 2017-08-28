@@ -177,7 +177,7 @@ class Student: NSObject {
  let mapper = Mapper.modelWithDic(dic: dic as Dictionary<String, AnyObject>)
 ```
 
-#### 4.数组模型
+### 4.数组模型
 字典
 ```swift
  let array = [
