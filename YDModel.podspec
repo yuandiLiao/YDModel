@@ -139,7 +139,7 @@
     Pod::Spec.new do |s|
 
     s.name         = 'YDModel'
-    s.version      = '1.0'
+    s.version      = '1.1'
     s.summary      = 'swift模型解析'
     s.homepage     = 'https://github.com/yuandiLiao/YDModel'
     s.license      = 'MIT'
