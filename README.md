@@ -204,3 +204,5 @@ class Student: NSObject {
 let modelArray = Student.modelWithArray(array: array as Array<AnyObject>) as! Array<Student>
 ```
 
+
+#### 有什么问题欢迎issue或者联系我： 15019483722@163.com
