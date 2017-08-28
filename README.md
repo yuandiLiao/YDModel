@@ -7,6 +7,13 @@
 ### 使用时需注意
 声明基本数据类型如int等时，需要实例化如 var intValue:Int = 0,不能直接 var intValue:Int? ，不然获取不到该属性
 
+#### 使用cocoapods导入
+```
+pod 'YDModel'
+```
+
+####手动导入
+下载工程中的YDModel文件，将其拖入工程中
 
 ### 1.基本的字典转model
 字典
