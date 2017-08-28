@@ -137,6 +137,7 @@
 #end
 
     Pod::Spec.new do |s|
+
     s.name         = 'YDModel'
     s.version      = '1.0'
     s.summary      = 'swift模型解析'
@@ -148,6 +149,7 @@
     s.source_files = 'YDModel/**/*'
     s.requires_arc = true
     s.description  = <<-DESC
+
     YDModel is for easier to use
     DESC
     end
