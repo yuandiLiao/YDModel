@@ -25,7 +25,7 @@
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
 #  s.description  = <<-DESC
-                   DESC
+#                  DESC
 
 #  s.homepage     = "http://EXAMPLE/YDModel"
 # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/#screenshots_2.gif"
@@ -145,9 +145,9 @@
     s.authors      = { "yuandiLiao" => "15019483722" }
     s.platform     = :ios, '8.0'
     s.source       = {:git => 'https://github.com/yuandiLiao/YDModel.git', :tag => s.version}
-    s.source_files = 'YDModel/YDModel/**/*'
+    s.source_files = 'YDModel/**/*'
     s.requires_arc = true
     s.description  = <<-DESC
-    akabadge is for easier to use
+    YDModel is for easier to use
     DESC
     end
