@@ -200,7 +200,7 @@ class Student: NSObject {
 
 ```
 解析转换
-```
+```swift
 let modelArray = Student.modelWithArray(array: array as Array<AnyObject>) as! Array<Student>
 ```
 
