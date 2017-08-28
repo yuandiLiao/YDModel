@@ -173,7 +173,7 @@ class Student: NSObject {
 
 ```
 解析转换
-```
+```swift
  let mapper = Mapper.modelWithDic(dic: dic as Dictionary<String, AnyObject>)
 ```
 
