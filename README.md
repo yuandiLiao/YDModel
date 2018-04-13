@@ -212,4 +212,6 @@ let modelArray = Student.modelWithArray(array: array as Array<AnyObject>) as! Ar
 ```
 
 
-#### 有什么问题欢迎issue或者联系我： 15019483722@163.com
+
+
+    var age = 0
