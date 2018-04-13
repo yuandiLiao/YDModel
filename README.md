@@ -210,8 +210,3 @@ class Student: NSObject {
 ```swift
 let modelArray = Student.modelWithArray(array: array as Array<AnyObject>) as! Array<Student>
 ```
-
-
-
-
-    var age = 0
